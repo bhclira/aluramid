@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nessa aula, aprendi:
 
 ## Eventos no teclado: 
@@ -20,3 +21,7 @@ lógico and (&&) e o valor null.
 - Agora, por exemplo, se clicarmos em uma tecla do Alura MIDI, será reproduzido um som. Da mesma forma, podemos usar a navegação via teclado. Se pressionarmos "Enter" ou "Barra de espaço", o som da tecla selecionada também é reproduzido;  
 - Aprendemos a fazer um código otimizado, percorrendo todos os botões, reduzindo a repetição de código, e aumentando o reaproveitamento e a manutenção desse código.  
   
+=======
+# aluramid
+In this repository you will find exercises and projects made from the Alura Front-End Course
+>>>>>>> bd59e446ff87e446c59e88eab44b366ee7e2c24e
